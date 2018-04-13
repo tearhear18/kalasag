@@ -1,0 +1,61 @@
+*{
+	padding:0;
+	margin:0;
+	color: #333;
+}
+body{
+	font-family: verdana;
+	background: #000;
+}
+.login_wrapper h3{
+	color: #333;
+}
+.logo_wrapper{
+	width: 400px;
+	margin: 100px auto 50px;
+	text-align: center;
+}
+.login_wrapper .form-group label{
+	font-size: 14px;
+	display: block;
+	margin-bottom: 10px;
+
+}
+input.form-control{
+	width: 100%;
+	padding: 10px;
+	font-size: 12px;
+	border:1px solid #333;
+	display: block;
+	box-sizing : border-box;
+}
+.form-group{
+	width: 100%;
+	padding: 10px;
+	box-sizing : border-box;
+}
+.login_wrapper p{
+	text-align: center;
+	font-weight: bold;
+}
+.login_wrapper{
+	width: 400px;
+	min-height: 200px;
+	background: #ccc;
+	margin: auto;
+	padding: 10px;
+	box-sizing: border-box;
+	overflow: auto;
+	border:1px solid #bbb;
+}
+.btn{
+	padding: 10px;
+	min-width: 150px;
+	background: #f2b823;
+	border: 1px solid #888;
+	cursor: pointer;
+	outline: none;
+}
+.text-center{
+	text-align: center;
+}
